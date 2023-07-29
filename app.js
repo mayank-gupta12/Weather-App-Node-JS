@@ -22,7 +22,7 @@ app.post("/", function (req, res,next) {
       res.write(`<style type="text/css"> 
       body {
         color: white;
-        height: 95%;
+        height: 94.9%;
         width: 99%;
         display: flex;
         justify-content: center;
